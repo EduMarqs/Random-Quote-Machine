@@ -12,3 +12,20 @@
 
 
 > Gerador de citações aleatórias
+
+## 🤝 PARTICIPANTES
+
+Os desenvolvedores desta solução:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/83605646?s=400&u=285d8cb082d30041e7c4610fe8377bb7f18f2f2c&v=4" width="100px;" alt="Foto do Eduardo Marques no GitHub"/><br>
+        <sub>
+          <b>Eduardo Marques</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
