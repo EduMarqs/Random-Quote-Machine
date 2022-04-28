@@ -1,8 +1,6 @@
 # Random Quote Generator
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![image](https://user-images.githubusercontent.com/83605646/165791475-7164d8da-99a8-4b77-bb47-0346f4feecda.png)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
