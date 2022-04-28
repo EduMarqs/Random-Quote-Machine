@@ -1,4 +1,4 @@
-# Nome do projeto
+# Random Quote Generator
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -8,7 +8,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-![gif](https://user-images.githubusercontent.com/83605646/165790071-5306cb6b-9d2b-499c-97e5-d2df368bc4d5.png)
+![image](https://user-images.githubusercontent.com/83605646/165790983-fd406944-3d15-4378-88ff-1473e6bc1d7e.png)
+
 
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
